@@ -1,24 +1,31 @@
 # SimRail Better Presence
 
-Lepszy status Discord (Rich Presence) dla gry SimRail. Aplikacja automatycznie wyświetla informację o tym, na jakim serwerze grasz, jaką stacją kierujesz lub jaki pociąg prowadzisz.
+Rich Presence do Discorda dla SimRaila. Pokazuje na jakim serwerze jesteś, co prowadzisz albo jaką stacją sterujesz.
 
-## ✨ Główne cechy
-- **Automatyczna detekcja**: Program sam wykrywa Twój Steam ID i serwer, na którym grasz.
-- **Pulpit nawigacyjny**: Wbudowany interfejs graficzny (GUI) pozwalający podglądać aktualny status RPC.
-- **Lekkość**: Aplikacja działa w tle i nie obciąża komputera.
+## 🛠️ Co to robi?
+- **Automatyczna detekcja**: Automatycznie wykrywa Twoje Steam ID oraz serwer, na którym aktualnie grasz.
+- **Czas rzeczywisty**: Aktualizuje Twój status na Discordzie w czasie rzeczywistym.
+- **Proste GUI**: Posiada przejrzysty interfejs, w którym możesz podejrzeć, co aplikacja aktualnie wysyła do Discorda.
+- **Lekkość**: Działa dyskretnie w tle i nie obciąża systemu.
 
-## 🚀 Jak pobrać i używać?
-1. Przejdź do sekcji **[Releases](https://github.com/trolekpp/SimRailBetterPresence/releases)**.
+## 🚀 Instalacja
+1. Wejdź w: [https://github.com/trolekpp/SimRailBetterPresence/releases](https://github.com/trolekpp/SimRailBetterPresence/releases)
 2. Pobierz najnowszy plik `SimRailBetterPresence.exe`.
-3. Uruchom program (możesz go wrzucić do dowolnego folderu).
-4. Upewnij się, że masz włączony Discord.
-5. Program automatycznie połączy się z Twoim kontem Steam i zaktualizuje status na Discordzie.
+3. Uruchom pobrany plik (program nie wymaga instalacji).
+4. Upewnij się, że masz włączonego Discorda.
+5. Gotowe!
 
 ## ⚙️ Konfiguracja
-Jeśli automatyczna detekcja SteamID nie zadziała, program stworzy plik `config.txt` w tym samym folderze, w którym znajduje się `.exe`. Możesz tam ręcznie wpisać swój SteamID64.
+Jeśli program z jakiegoś powodu nie wykryje automatycznie Twojego Steam ID:
+- W folderze z plikiem `.exe` pojawi się plik `config.txt`.
+- Wpisz tam ręcznie swój **SteamID64**.
+
+## 📋 Wymagania
+- Uruchomiony Discord.
+- Uruchomiony SimRail (oczywiste, ale warto napisać).
+
+## 📄 Licencja
+**MIT** – możesz używać i modyfikować bez kombinowania z prawami autorskimi.
 
 ---
-## 📄 Licencja
-Ten projekt jest dostępny na licencji MIT. Zobacz plik [LICENSE](LICENSE) po szczegóły.
-
 *Stworzone przez **wr0b3l***
