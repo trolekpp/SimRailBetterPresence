@@ -8,7 +8,7 @@ Lepszy status Discord (Rich Presence) dla gry SimRail. Aplikacja automatycznie w
 - **Lekkość**: Aplikacja działa w tle i nie obciąża komputera.
 
 ## 🚀 Jak pobrać i używać?
-1. Przejdź do sekcji **[Releases](https://github.com/TWOJA_NAZWA_UZYTKOWNIKA/SimRailBetterPresence/releases)**.
+1. Przejdź do sekcji **[Releases](https://github.com/trolekpp/SimRailBetterPresence/releases)**.
 2. Pobierz najnowszy plik `SimRailBetterPresence.exe`.
 3. Uruchom program (możesz go wrzucić do dowolnego folderu).
 4. Upewnij się, że masz włączony Discord.
