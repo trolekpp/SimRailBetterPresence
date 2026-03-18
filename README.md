@@ -24,8 +24,5 @@ Jeśli program z jakiegoś powodu nie wykryje automatycznie Twojego Steam ID:
 - Uruchomiony Discord.
 - Uruchomiony SimRail (oczywiste, ale warto napisać).
 
-## 📄 Licencja
-**MIT** – możesz używać i modyfikować bez kombinowania z prawami autorskimi.
-
 ---
 *Stworzone przez **wr0b3l***
