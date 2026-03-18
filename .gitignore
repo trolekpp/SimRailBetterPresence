@@ -1,0 +1,24 @@
+# Ignore everything by default
+/*
+
+# Except for README, LICENSE and .gitignore
+!README.md
+!LICENSE
+!.gitignore
+
+# And if you want to include some assets like icons that the user might need
+#!resources/
+#!resources/icon.ico
+
+# Ignore everything else
+__pycache__/
+build/
+dist/
+*.py
+*.spec
+*.txt
+*.json
+*.log
+*.html
+*.css
+*.js
